@@ -26,8 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## Task Tracker
 
-
-
-
-![Uploading Screenshot 2023-06-03 at 12.59.56 PM.png…]()
+<img width="448" alt="Screenshot 2023-06-03 at 12 59 56 PM" src="https://github.com/cbanupama/Angular--TaskTracker/assets/34545482/d133bbdc-c518-49c7-bbb4-3399ea415afc">
